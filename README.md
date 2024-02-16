@@ -24,3 +24,9 @@ Autor
 "GAVS’s"  (Vadym Havryliuk(Gavryliuk))
 
 
+link do proektu
+https://github.com/Vadum01/ekzamin_czierwiec2022
+
+link do autora:
+https://github.com/Vadum01
+
