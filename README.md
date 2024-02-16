@@ -1,0 +1,1 @@
+# ekzamin_czierwiec2022
