@@ -1,0 +1,49 @@
+
+body {
+	font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {     
+	background-color: black;
+    color: white;
+    display: flex;
+    width: 1000px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+main {
+	
+	max-width: 1200px;
+}
+
+section { 
+	background-color: rgb(230, 148, 25); 
+	width: 1000px;
+	height: 300px;
+	 }
+
+
+
+table { display: flex; 
+	margin: #860a0a; 
+	margin-top: 1rem; 
+	width: 100%; justify-content: center; }
+
+td { text-align: center; 
+	border: 1px solid #3706e952; 
+	padding: 12px; width: 120px; 
+	background-color: aquamarine;
+	 }
+
+podpis{ 
+	width: 1000px;
+	background-color:violet; 
+	color: white; 
+	
+	text-align: center; }
+		
